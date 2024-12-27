@@ -104,7 +104,7 @@ const socialprofils = {
     github: "https://github.com/niexche",
     linkedin: "https://www.linkedin.com/in/fevzi-k%C4%B1las-6b857b19a/",
     twitter: "https://twitter.com/iksapp",
-    hf: "https://huggingface.co/NIEXCHE"
+    hf: "https://huggingface.co/NIECHE"
 };
 export {
     meta,
